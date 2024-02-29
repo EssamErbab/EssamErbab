@@ -8,8 +8,6 @@
 - I’m looking to collaborate on projects, games, & software
 - You can reach me through my email (Essamerbab22@gmail.com) or my phone number (226-507-6061)
 
-- ⚡ Fun fact: ...
-
 <!---
 EssamErbab/EssamErbab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

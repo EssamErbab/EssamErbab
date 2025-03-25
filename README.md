@@ -3,8 +3,19 @@
 - I am an aspiring game developer with multiple years of coding experience & the ability to learn new programming languages & concepts quickly
 - I am interested in software development, video game development, & story development
 
-<<<=-= **Programming Skills:** =-=>>>
+**<<<=-= Programming Skills =-=>>>**
+
 C# | HTML | SQL | JavaScript | CSS | ASP.Net | Python | GIT | Java | PHP | React | VBA | MonoGame | 6502 Assembly | TypeScript
+
+**<<<=-= Application Skills =-=>>>**
+
+Visual Studio | VS Code | Unity | Microsoft Office | GitHub | Azure | SSMS | MySQL Workbench | WordPress | Aseprite | Blender
+
+**<<<=-= Soft Skills =-=>>>**
+
+Strong Math Skills | Problem Solving | Creativity | Teamwork | Organization | Work Ethic | Web Development | Agile | Scrum | Adaptability | Independent | Leadership | Customer Service
+
+
 - I have experience with Unity, Blender, Github, Visual Studio, GB studio
 - I am currently enrolled for computer programming & analysis and wanting to transfer to a bachelor's in Computer Programming
 - I’m looking to collaborate on projects, games, & software

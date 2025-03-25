@@ -1,12 +1,23 @@
-Hi, I’m @EssamErbabn
-Pronouns: He / Him\n
-Phone: +1 (226) 507-6061\n
-Personal Email: Essamerbab22@gmail.com\n
-School Email: Eerbab7180@conestogac.on.ca\n
-Extra Email: Es.Bruv@gmail.com\n
-Linkedin: www.linkedin.com/in/essam-erbab\n\n
-College: Conestoga College\n
-Program: Computer Programming & Analysis\n\n
+Hi, I’m @EssamErbab
+
+Pronouns: He / Him
+
+Phone: +1 (226) 507-6061
+
+Personal Email: Essamerbab22@gmail.com
+
+School Email: Eerbab7180@conestogac.on.ca
+
+Extra Email: Es.Bruv@gmail.com
+
+Linkedin: www.linkedin.com/in/essam-erbab
+
+College: Conestoga College
+
+Program: Computer Programming & Analysis
+
+**<<<=-= Summary =-=>>>**
+
 I am an aspiring game developer with multiple years of coding experience & the ability to learn new programming languages & concepts quickly I am interested in software development, video game development, & story development
 
 **<<<=-= Programming Skills =-=>>>**
@@ -25,7 +36,7 @@ Strong Math Skills | Problem Solving | Creativity | Teamwork | Organization | Wo
 
 Mortas 64 Demo: https://es-bruv.itch.io/mortas-64
 
-Mortas (NES Rom): TBA
+Mortas (NES): TBA
 
 SiNe Wave: https://coblodyte.itch.io/sine-wave
 

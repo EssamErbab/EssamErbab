@@ -13,9 +13,13 @@ Extra Email: Es.Bruv@gmail.com
 Linkedin: www.linkedin.com/in/essam-erbab
 
 
+
 College: Conestoga College
 
 Program: Computer Programming & Analysis
+
+
+
 
 I am an aspiring game developer with multiple years of coding experience & the ability to learn new programming languages & concepts quickly I am interested in software development, video game development, & story development
 

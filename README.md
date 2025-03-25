@@ -1,4 +1,4 @@
-Hi, I’m @EssamErbabn\n
+Hi, I’m @EssamErbabn
 Pronouns: He / Him\n
 Phone: +1 (226) 507-6061\n
 Personal Email: Essamerbab22@gmail.com\n

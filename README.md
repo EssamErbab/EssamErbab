@@ -27,8 +27,11 @@ Strong Math Skills | Problem Solving | Creativity | Teamwork | Organization | Wo
 **<<<=-= Projects =-=>>>**
 
 Mortas 64 Demo: https://es-bruv.itch.io/mortas-64
+
 Mortas (NES Rom): TBA
+
 SiNe Wave: https://coblodyte.itch.io/sine-wave
+
 Star Classification: https://colab.research.google.com/drive/1P37m1a1vsncwKU1hGcxeyZpTeNHOkqRX#scrollTo=6oNUmDImmjkO
 
 <!---
